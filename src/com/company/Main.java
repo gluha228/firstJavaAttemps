@@ -1,12 +1,8 @@
 package com.company;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
-import java.util.concurrent.ThreadLocalRandom;
 import java.lang.*;
 import java.util.regex.Pattern;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Main {
 
